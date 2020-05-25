@@ -1,0 +1,4 @@
+This is contents
+of a new file
+we would like to
+read and write from and to.this is a new line in the old file
