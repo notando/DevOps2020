@@ -8,5 +8,7 @@ cursor = conn.cursor()
 #Delete DATA from table
 cursor.execute("DELETE  FROM 7i3TTuLar2.Situator WHERE Name = 'Rom'")
 
+print("github")
 cursor.close()
+
 conn.close()
