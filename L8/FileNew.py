@@ -1,1 +1,1 @@
-print("new nn ewn")
+print("new nn e   wn")
